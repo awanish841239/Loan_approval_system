@@ -59,7 +59,7 @@ streamlit run app.py
 ---
 
 ## 🛠️ Tech Stack
-Python , Numpy, Pandas, Matplotlib, Sk-learn ,Streamlit
+Python , Numpy, Pandas, Matplotlib, scikit-learn ,Streamlit
 
 ## 📁 Project Structure
 ```
