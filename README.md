@@ -53,7 +53,7 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-[Click Here to Try the App](#)  
+[Click Here to Try the App](https://loanapprovalsystem-h3xvxuqdehq5rxrpqhcngp.streamlit.app/)  
 
 
 ---
